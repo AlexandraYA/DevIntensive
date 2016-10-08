@@ -4,4 +4,25 @@
     <string name="error.message.network">Network error</string>
     <string name="error.message.call">Call failed</string>
     <string name="error.message.map">Map loading failed</string>
+
+    <string name="et.hint.phone">Мобильный телефон</string>
+    <string name="et.hint.email">Email</string>
+    <string name="et.hint.vk">Профайл vk</string>
+    <string name="et.hint.github">GitHub repo</string>
+    <string name="et.hint.about">О себе</string>
+
+    <string name="et.text.phone">+7(999)999&#8211;99&#8211;99</string>
+    <string name="et.text.email">example@mail.ru</string>
+    <string name="et.text.vk">vk.com/test</string>
+    <string name="et.text.github">github.com/test/Devintensive</string>
+    <string name="et.text.about">
+        В 1815 году Шарль-Франсуа-Бьенвеню Мириэль был епископом города Диня.
+        Это был старик лет семидесяти пяти; архиерейский престол в Дине он занимал с 1806 года.
+    </string>
+    <string name="top_rating">Рейтинг</string>
+    <string name="top_projects">Проектов</string>
+    <string name="top_code">Написано строчек кода</string>
+    <string name="top_rating_amount">5</string>
+    <string name="top_projects_amount">5</string>
+    <string name="top_code_amount">5</string>
 </resources>
